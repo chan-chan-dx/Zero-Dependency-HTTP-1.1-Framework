@@ -1,9 +1,13 @@
 # Zero-Dependency HTTP/1.1 Framework
 
+Custom zero-dependency HTTP/1.1 framework built in Python — high-performance routing, observability, and security.
+
+---
+
 > ⚠️ **Note to the Career Experience Recuriter on Source Code**  
 > Due to **Business Conduct policies**, I cannot share this code publicly.  
 > However, I can provide **private access** to the Git log with timestamps and the codebase upon request during recruitment processes.  
-
+---
 
 🛠️ **Stack:** Pure Python  
 

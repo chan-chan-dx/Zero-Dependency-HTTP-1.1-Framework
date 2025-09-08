@@ -30,9 +30,9 @@ Latency measured at the **business-logic + middleware execution layer** via buil
 
 | Framework               | Avg Latency        | Weekly Downloads | Relative Performance    |
 |-------------------------|--------------------|------------------|-------------------------|
-| 🚀 **Custom Framework** | **0.000074s (74µs)** | N/A (custom)     | ✅ Baseline (fastest)   |
+| 🚀 **Custom Framework** | **~0.000074s (0.074ms)** | N/A (custom)     | ✅ Baseline (fastest)   |
 | Uvicorn (ASGI server)   | ~0.004s (4ms)      | 20M+             | ~54× slower             |
-| Falcon                  | ~0.12s (120ms)     | 60K+             | ~1600× slower           |
+| Falcon                  | ~0.11s (110ms)     | 60K+             | ~1600× slower           |
 | Django                  | ~0.142s (142ms)    | 6M+              | ~1900× slower           |
 
 ⚠️ **Note:**  
